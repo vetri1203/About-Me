@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UJ4usg_As4aDPdkp0qMwycx_xfu0_GaZ/view?usp=drivesdk](https://drive.google.com/file/d/1UJ4usg_As4aDPdkp0qMwycx_xfu0_GaZ/view?usp=drivesdk)
 
-- ⚡ **Cricket**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
