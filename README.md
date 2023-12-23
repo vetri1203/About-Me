@@ -1,6 +1,6 @@
 
 <head>
- <meta name="google-site-verification" content="JtjU-q4FdVyDMCITO9Jpg9K628Y6KRJ3dxnu8sQs3LQ" />
+<meta name="google-site-verification" content="JtjU-q4FdVyDMCITO9Jpg9K628Y6KRJ3dxnu8sQs3LQ" />
 </head>
 <h1 align="center">Hi 👋, I'm Vetrivel Jaganathan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
